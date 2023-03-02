@@ -1,5 +1,5 @@
 # Predicting-Election-Results
-Predicting US Presidential Elections at county level based on twitter data
+Predicting US Presidential Elections at county level based on geo-tagged tweets from Twitter
 
 Abstract
 For a long time, forecasting political elections has received a lot of attention. Poll surveys and 
