@@ -2,6 +2,7 @@
 Predicting US Presidential Elections at county level based on geo-tagged tweets from Twitter
 
 Abstract
+
 For a long time, forecasting political elections has received a lot of attention. Poll surveys and 
 national economic growth are commonly used as predictors in traditional political science election 
 forecasting models. However, dense polling is costly. In recent decades, social media has grown 
