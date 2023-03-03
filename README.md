@@ -50,8 +50,9 @@ and gender of the users. We eliminated pictures where the confidence score of th
 below 70% and then plotted the data against the actual voters. The graphs reveal a mismatch 
 between the most common age and gender groups in our data and the actual voting population.
 In particular, Twitter users were younger, aged 24-34 with more males, whereas the majority of 
-the actual voting population is aged 45+ with more females (Figure 1 & 2 Appendix).
+the actual voting population is aged 45+ with more females
 
+![Maps](Misc/Picture1.png)
 
 # Sentiment Analysis & Topic Modeling
 ## A) Sentiment Analysis
@@ -73,6 +74,10 @@ We then drew a choropleth map to compare the county-level support rates for each
 In red counties, the Republican candidate (Trump) received a higher support rate, 
 whereas in blue counties, the Democratic candidate had a higher support rate (Hillary in 2016 or 
 Biden in 2020).
+
+![Maps2](Misc/Picture2.jpeg) 
+![Maps3](Misc/Picture3.jpeg)
+
 We then compared our results to those reported by the New York Times and found that our data 
 were less consistent with the reality on the West side (e.g., counties in California), where we had 
 fewer data.
