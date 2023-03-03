@@ -74,13 +74,17 @@ We then drew a choropleth map to compare the county-level support rates for each
 In red counties, the Republican candidate (Trump) received a higher support rate, 
 whereas in blue counties, the Democratic candidate had a higher support rate (Hillary in 2016 or 
 Biden in 2020).
-
-![Maps2](Misc/Picture2.jpeg) 
-![Maps3](Misc/Picture3.jpeg)
-
 We then compared our results to those reported by the New York Times and found that our data 
 were less consistent with the reality on the West side (e.g., counties in California), where we had 
 fewer data.
+
+![Maps2](Misc/Picture2.JPG)
+Mapped on Support Rate                      v                          NY Times actual result (2016)
+![Maps3](Misc/Picture3.JPG)
+
+![Maps4](Misc/Picture4.JPG)
+Mapped on Support Rate                      v                          NY Times actual result (2020)
+![Maps5](Misc/Picture5.JPG)
 
 ## B) Topic Modeling
 We also wanted to understand the thematic content of the collected tweets to discern any major 
@@ -136,6 +140,7 @@ Support Vector Classifier – SVC maps data points to high dimensional space and
 that divides the two classes. The model has Accuracy: 0.74, Precision: 0.85, Recall: 1, F Score: 
 0.85 and an AUC of 0.51.
 
+![Pic7](Misc/Picture7.JPG)
 
 ## Limitations & Future Improvements
 ### A) Limitation:
